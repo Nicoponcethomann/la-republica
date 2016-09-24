@@ -1,0 +1,52 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+body{
+	background-color: white;
+}
+
+.navbar-default{
+	margin: 0%;
+}
+
+.background-white{
+	background-color: white;
+	border: none;
+}
+
+/* HEADER */
+
+.navbar-nav {
+	padding: 0%;
+}
+
+.navbar-nav li a{
+	font-size: 80%;
+}
+
+.boletin{
+	background-color: red;
+	color: white;
+	font-size: 70%;
+	padding: 1%;
+}
+
+.search{
+	width: 25%;
+	border: none;
+}
+
+/* FOOTER */
+footer{
+	background-color: #DDDDDD;
+}
+
+.foot-cont{
+	padding-top: 3%;
+	padding-bottom: 1%;
+}
+
+.right-col{
+	border-left: 5px ridge white;
+}
