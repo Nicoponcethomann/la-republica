@@ -17,24 +17,117 @@ body{
 
 /* HEADER */
 
-.navbar-nav {
-	padding: 0%;
+/* NAV1 */
+.navbar-nav li{
+	padding: 0% 2%;
 }
 
 .navbar-nav li a{
-	font-size: 80%;
+	font-size: 75%;
+	float: left;
 }
 
 .boletin{
 	background-color: red;
 	color: white;
-	font-size: 70%;
+	font-size: 75%;
 	padding: 1%;
 }
 
+.boletin{
+	margin-top: 13%;
+}
+
+.icon{
+	padding-left: 5%;
+	padding-top: 3%;
+}
+
+.fa{
+	margin-right: 5%;
+}
+
+.fa-facebook{
+	color: 	#105093;
+}
+
+.fa-twitter{
+	color: #27AAD3;
+}
+
+.fa-google-plus{
+	color: #E02B49;
+}
+
+.fa-envelope{
+	color: #FBB500;
+}
+
+.fa-rss{
+	color: #F76B00;
+}
+
 .search{
-	width: 25%;
-	border: none;
+	margin-top: 8%;
+}
+
+.search-query{
+	font-size: 70%;
+}
+
+.btn-button-search{
+	border-right: 1px solid #CDD5DC;
+	border-left: 1px solid #CDD5DC; 
+}
+
+.search-query, .btn-search {
+	background-color: #F6F6F6;
+	border-radius: 0px;
+	border: 0px;
+}
+
+/* NAV2 */
+.logo-nav{
+	padding: 3%;
+}
+
+/* NAV3 */
+.nav-button button{
+	font-size: 80%;
+	background-color: #CD000E;
+	color: white;
+	border: 1px solid black;
+}
+
+.nav-button button:hover{
+	background-color: #022361;
+	color: white;
+}
+
+/* NAV 4 */
+.title-day{
+	background-color: black;
+	border-radius: 5px;
+}
+
+.title-day a{
+	color: white;
+}
+
+.title-day a:hover{
+	color: black;
+}
+
+.nav-day{
+	background-color: #DDE2E5;
+	font-size: 75%;
+	border-radius: 5px;
+}
+
+.nav-day li a i{
+	font-size: 50%;
+	display: inline;
+	margin-left: 8%;
 }
 
 /* FOOTER */
@@ -47,6 +140,50 @@ footer{
 	padding-bottom: 1%;
 }
 
+.foot-row-1{
+	padding-bottom: 3%;
+	border-bottom: 3px ridge #FFFFFF;
+}
+
 .right-col{
-	border-left: 5px ridge white;
+	border-left: 3px ridge #FFFFFF;
+}
+
+.la-republica{
+	margin: 10% 0%;
+}
+
+.right-links a{
+	display: block;
+	color: #666666;
+	line-height: 1.8;
+	font-size: 90%;
+}
+
+.right-links a:hover{
+	color: black;
+	text-decoration: none;
+}
+
+.interest-links{
+	padding-top: 3%;
+	border-top: 1px ridge white;
+}
+
+.interest-links li a{
+	font-size: 70%;
+	padding: 0%;
+	color: #666666;
+}
+/* FOOTER MOVIL - TABLET*/
+.footer{
+  background-color: #000000;
+  color: white;
+  padding: 5% 0;
+  font-family: 'PT Sans', sans-serif;
+}
+.footer p{
+  font-size: 10px;
+  font-family: 'PT Sans', sans-serif;
+
 }
