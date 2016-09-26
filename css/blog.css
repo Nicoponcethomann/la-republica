@@ -1,1 +1,96 @@
 /* Inserta tu código de la página blog acá */
+
+/* Titulo lo ultimo en blogs */
+.tilgrande{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.tilmediano{
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    color: #8B8CAA;
+}
+
+/* color flecha*/
+.icons{
+    color: #BA1414;
+    font-size: 14px;
+}
+
+.blog{
+    border: #E2E2E2;
+    border-style: solid;
+    border-width: 2px;
+    padding: 3% 2% 1% 2%;
+    width: 23%; 
+    margin-left: 10px;
+
+}
+
+.blog2{
+    padding-top: 4%;
+}
+
+a .gol{
+    color: black;
+    text-decoration: none;
+}
+
+/* titulos de los div2 */
+
+.til1{
+    font-size: 11px;
+}
+
+.til2{
+    font-size: 16px;
+}
+
+.til1 , .til2{
+    font-family: 'Open Sans', sans-serif;
+    color: #94A0A8;
+    
+}
+
+.div2{
+    background-color: #E2E6E9;
+}
+
+.foto{
+    padding: 3% 4% 3% 4%;
+}
+
+.foto1{
+    border: white;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.blog2{
+    font-size: 11px ;
+}
+
+.libros{
+    font-size: 12px;
+}
+
+.manos{
+    color: black;
+    margin-left: -10px;
+    
+}
+
+.parra{
+    margin-bottom: 2px;
+}
+
+/*Espacio entre divs */
+
+.fila2{
+    padding-top: 2%;
+}
+
+
+
+

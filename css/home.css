@@ -1,3 +1,80 @@
+
+/*^SONIA*/
+.titulo{
+    font-size: 50px;
+}
+.banner img{
+    size: cover;
+}
+
+
+
+/*Fotografia1*/
+
+.fotografia1{
+    background-image: url(../image/img_grid_principal.jpg);
+    background-size: cover;
+    padding-top: 40%;
+    margin-left: 12px;
+    width: 47%;
+    
+}
+
+.text1{
+    margin-top: 50px;
+    color: white;
+}
+
+.textp{
+    color: white;
+    padding-left: 2%;
+}
+
+/*Fotografia2*/
+.fotografia2{
+    background-image: url(../image/img_grid_secundario.jpg);
+    background-size: cover;
+    padding-top: 30%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    
+}
+
+.fotografia3{
+    background-image: url(../image/img_grid_secundario.jpg);
+    background-size: cover;
+    padding-top: 34%;
+    margin-left: 8px;
+}
+
+.fotocomen{
+    color: white;
+}
+
+
+
+.fotocomen1{
+   text-shadow: 2px 2px 4px #000004; 
+   padding: 0 2% 0 2%;
+}
+
+.fotocomen2{
+    text-shadow: 2px 2px 4px #000004;
+    padding: 0 2% 0 2%;
+
+}
+
+.textito li{
+    padding-bottom: 4%;
+}
+
+
+/*^SONIA*/
+
+
+
+
+
 /* SECCION COLUMNISTAS */
 .foto {	
 	border: 5px solid #fff;
@@ -93,6 +170,7 @@ span a:hover{
 	color: #F80500;
 }
 /* FIN MERCADO DE PASES */
+
 /*inicio Box-4 */
 .izquierda{
 	margin: 20px 0;
