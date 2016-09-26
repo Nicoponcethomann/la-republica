@@ -111,11 +111,7 @@ body{
 }
 
 .title-day a{
-	color: white;
-}
-
-.title-day a:hover{
-	color: black;
+	color:white;
 }
 
 .nav-day{
@@ -129,7 +125,19 @@ body{
 	display: inline;
 	margin-left: 8%;
 }
+.nav-day li a {
+	color:black;
+}
+.nav-day .title-day a{
+	color:white;
+	font-family: 'Oswald', sans-serif;	 
+}
+.nav-day .title-day a:hover{
+	color:white;
+	background: black;
+	font-family: 'Oswald', sans-serif;	
 
+}
 /* FOOTER */
 footer{
 	background-color: #DDDDDD;

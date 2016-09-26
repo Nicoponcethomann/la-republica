@@ -71,10 +71,6 @@
 
 /*^SONIA*/
 
-
-
-
-
 /* SECCION COLUMNISTAS */
 .foto {	
 	border: 5px solid #fff;
@@ -115,15 +111,15 @@
 }
 
 
-p {
+.columnistas p {
 	margin: 0;
 }
 
-a {
+.columnistas a {
 	color: black;
 }
 
-a:hover {
+.columnistas a:hover {
 	text-decoration: none;
 	color: black;
 }
